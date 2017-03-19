@@ -1,0 +1,6 @@
+.idea/
+htmlcov/
+.coverage
+__pycache__/
+parser.out
+parsetab.py
